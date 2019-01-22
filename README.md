@@ -1,4 +1,4 @@
-# Dokumentation Processing
+# Documentation Processing
 *WS 18/19* *Johann-Vincent Olstowski*
 
 **001 Interactive movie poster - the color of the hand changes its color, when the mouse is being moved
